@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "785784420986",
+    "firebase_url": "https://mitrcapp.firebaseio.com",
+    "project_id": "mitrcapp",
+    "storage_bucket": "mitrcapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785784420986:android:18e8a9a20b356dd8",
+        "android_client_info": {
+          "package_name": "com.apkglobal.mitrcapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785784420986-31ro0fcoimskmpdmpb7atnhjgu4kvqme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apkglobal.mitrcapp",
+            "certificate_hash": "8afa65c2cc7433cba81a4aa89a6ba40c093c01a7"
+          }
+        },
+        {
+          "client_id": "785784420986-rrughsaa44od262c9v3j3a4dqeuuboue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-HdmafuHeFiTlTv_VlVH_X9vMoVFVNLA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785784420986-rrughsaa44od262c9v3j3a4dqeuuboue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
